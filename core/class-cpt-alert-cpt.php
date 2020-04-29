@@ -441,9 +441,9 @@ class CPTAlert_CPT {
 			'label' => '<strong>' . __( 'Background Color', 'als-cpt-alert' ) . '</strong>',
 			'default' => 'primary',
 			'options' => array(
-				"primary" => __( 'Blue', 'als-cpt-alert' ),
-				"secondary" => __( 'Yellow', 'als-cpt-alert' ),
-                "tertiary" => __( 'Red', 'als-cpt-alert' ),
+				"primary" => __( 'ALS Blue', 'als-cpt-alert' ),
+				"secondary" => __( 'ALS Yellow', 'als-cpt-alert' ),
+                "tertiary" => __( 'ALS Red', 'als-cpt-alert' ),
 			),
 		) );
 
